@@ -21,8 +21,3 @@ Move left: Left arrow
 Move right: Right arrow
 Jump: Spacebar
 
-Features
-
-Procedurally generated terrain
-Collect coins to purchase power-ups
-Endless runner gameplay
