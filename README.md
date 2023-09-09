@@ -21,3 +21,10 @@ Move left: Left arrow
 Move right: Right arrow
 Jump: Spacebar
 
+
+![א](https://github.com/noydavidi/pepse/assets/77931201/76a3fd2e-4ce5-4c79-b00c-31c9a093e2b5)
+
+
+![ג](https://github.com/noydavidi/pepse/assets/77931201/cf11a2db-51b4-4c38-9785-f048322a5c1f)
+
+
