@@ -11,10 +11,9 @@ I learned a lot about procedural generation, game development, and software engi
 
 **Gameplay**
 
-The player controls the avatar using the keyboard arrows. The avatar will automatically run forward. The player can jump by pressing the spacebar.
-The terrain is procedurally generated, so the player will never run the same course twice. The terrain is made up of blocks, and the player must avoid falling off the edge of the blocks.
-The player can also collect coins by running over them. Coins can be used to purchase power-ups, such as a jetpack or a shield.
-The game ends when the player falls off the edge of the terrain. The player's score is based on how far they ran and how many coins they collected.
+The player controls the avatar, a little creature, using the keyboard arrows. The avatar can walk, run, jump, and fly.
+The game world is procedurally generated, so the player will never run the same course twice. The game world is made up of trees, ground, and stairs. The trees' leaves fall and regrow, and the sun's position in the sky changes, creating a dynamic lighting system that makes the game world feel more realistic.
+The player has an energy level for the flying mood. The energy level decreases when the player is flying. When the energy level reaches 0, the player can no longer fly. The player can recharge the energy level by walking. You can exit the game by pressing the escape button.
 
 **Controls**
 
