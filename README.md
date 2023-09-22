@@ -1,7 +1,6 @@
 **Pepse**
 
 A 2D endless runner game where the player controls an avatar that runs through a procedurally generated terrain.
-The goal of the game is to run as far as possible without falling off the edge of the terrain.
 
 **Background**
 
